@@ -3,11 +3,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 What have I done so far? 
 
-• I was selected to participate in an iOS application development bootcamp with Swift, led by Turkcell, and my e-commerce project was ranked among the top 10
+• "Application Development Bootcamp with Swift" led by Turkcell participant. Semi-final project was ranked among the top 10
 
-• I gained digital analytics experience as a member of GroupM, a global leader in media investment industry
+• Marketing analytics experience at GroupM, a global leader in media investment industry. Work with global brands such as Unilever
 
-• I gained technical expertise in data and understanding of banking industry at YapıKredi, leading to successful prototyping of "Predictive UX Model" project at Koç Digital
+• Digital analytics experience at YapıKredi, one of the local leader in banking industry
+
+• "Predictive UX Model" project at Koç Digital's "Data & Analytics for Business" training
 
 Currently, I am focusing on developing myself in the area of product development for machine learning products.
 
