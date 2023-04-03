@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is İrem
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm İrem
 ============================================================================================================================
 
 My experience as a digital data analyst in both banking and marketing analytics has honed my skills in interpreting and utilizing data to drive business decisions. My work on the Predictive UX Model project at Koç Digital's Data & Analytics for Business training allowed me to gain hands-on experience building predictive models for user experience.
