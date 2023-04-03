@@ -9,7 +9,7 @@ Currently, I am focused on improving my data visualization and analysis skills t
 *   🌍  I'm based in İstanbul
 *   ✉️  You can contact me at [ytu.iremkurt@gmail.com](mailto:ytu.iremkurt@gmail.com)
 *   🧠  I'm learning Pandas from Wes McKinney's book
-*   📚  I'm playing with web scraping and it's data for Tableau visualization
+*   📚  I'm playing with web scraping and its data for Tableau visualizations
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
