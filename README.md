@@ -22,7 +22,7 @@ I specialize in structuring ambiguous ideas into measurable frameworks — not j
 
 * Istanbul based, globally curious 
 * Highly visual, highly structural mind
-* Systems thinking meets first principles — that’s how I work
+* Systems thinking meets first principles — that's how I work
 
 ---
 
@@ -40,5 +40,5 @@ I specialize in structuring ambiguous ideas into measurable frameworks — not j
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>           
-               
+<a href="https://cursor.sh/" target="_blank" rel="noreferrer"><img src="https://cursor.sh/apple-touch-icon.png" width="36" height="36" alt="Cursor" /></a>
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="36" height="36" alt="Google Colab" /></a>
