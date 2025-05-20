@@ -22,17 +22,13 @@ I specialize in structuring ambiguous ideas into measurable frameworks — not j
 
 #### AutoML Pipeline
 [![AutoML Pipeline](https://img.shields.io/badge/AutoML%20Pipeline-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://insighter.streamlit.app/)
-[![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)](https://insighter.streamlit.app/)
-[![Features](https://img.shields.io/badge/Features-Classification%20%7C%20Visualization%20%7C%20Model%20Selection-blue?style=flat-square)](https://insighter.streamlit.app/)
 
 The platform allows users to quickly view a profile of their uploaded dataset and visualize it interactively, and for datasets suitable for classification problems, further allows them to identify and download the best-performing model for their prediction target, with regression problem capabilities coming soon.
 
 #### Bestseller Analytics
 [![Bestseller Analytics](https://img.shields.io/badge/Bestseller%20Analytics-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://v0-bestseller-website-design.vercel.app/)
-[![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)](https://v0-bestseller-website-design.vercel.app/)
-[![Features](https://img.shields.io/badge/Features-Narrative%20Analysis%20%7C%20Manuscript%20Upload%20%7C%20Prediction%20Coming%20Soon-purple?style=flat-square)](https://v0-bestseller-website-design.vercel.app/)
 
-The platform showcases narrative analysis insights from 2024's bestselling fiction and allows users to upload their own manuscripts for comparison, with a bestseller prediction module coming soon.
+The platform showcases insights from 2024's bestselling fiction and lets users upload manuscripts for chapter-level analysis across emotion, pacing, tension and sensory detail to reveal the story's structure, style and overall impact with a bestseller prediction module coming soon.
 
 ---
 
