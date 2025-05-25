@@ -33,7 +33,7 @@ The platform showcases insights from 2024's bestselling fiction and lets users u
 #### ETF Analytics
 [![ETF Analytics](https://img.shields.io/badge/ETF%20Analytics-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://v0-data-dashboard-design-iota.vercel.app/)
 
-An interactive dashboard that tracks real-time ETF prices, trend history, and AI-powered news sentiment - while surfacing top performers, visualizing risk-return, and comparing category performance over time in a clean, insight-focused interface.
+An interactive dashboard that tracks real-time ETF prices, trend history, and AI-powered news sentiment - while surfacing top performers, visualizing risk-return, and comparing category performance over time in a clean, insight-focused interface with additional capabilities coming soon.
 
 ---
 
