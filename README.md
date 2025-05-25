@@ -30,6 +30,11 @@ The platform allows users to quickly view a profile of their uploaded dataset an
 
 The platform showcases insights from 2024's bestselling fiction and lets users upload manuscripts for chapter-level analysis across emotion, pacing, tension and sensory detail to reveal the story's structure, style and overall impact with a bestseller prediction module coming soon.
 
+#### ETF Analytics
+[![ETF Analytics](https://img.shields.io/badge/ETF%20Analytics-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://v0-data-dashboard-design-iota.vercel.app/)
+
+An interactive dashboard that tracks real-time ETF prices, trend history, and AI-powered news sentiment - while surfacing top performers, visualizing risk-return, and comparing category performance over time in a clean, insight-focused interface.
+
 ---
 
 ### ✨ Personal Vibe
