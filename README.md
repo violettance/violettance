@@ -3,7 +3,7 @@ Hey, you found me ![](https://user-images.githubusercontent.com/18350557/1763097
 
 <img src="avatar.png" alt="Mary Kurt" width="100%" />
 
-I run [**Productora**](productora.co), a one-person product analytics studio powered by AI agents.
+I run [**Productora**](https://www.productora.co/), a one-person product analytics studio powered by AI agents.
 
 I specialize in structuring ambiguous ideas into measurable frameworks not just analyzing data, but designing the questions that drive clarity.
 
