@@ -3,9 +3,9 @@ Hey, you found me ![](https://user-images.githubusercontent.com/18350557/1763097
 
 <img src="avatar.png" alt="Mary Kurt" width="100%" />
 
-I'm the founder of [**Productora**](https://productora.lovable.app/), a company focused on solving complex business problems through data-backed thinking.
+I run [**Productora**](productora.co), a one-person product analytics studio powered by AI agents.
 
-I specialize in structuring ambiguous ideas into measurable frameworks — not just analyzing data, but designing the questions that drive clarity.
+I specialize in structuring ambiguous ideas into measurable frameworks not just analyzing data, but designing the questions that drive clarity.
 
 ---
 
@@ -41,7 +41,7 @@ An interactive dashboard that tracks real-time ETF prices, trend history, and AI
 
 * Istanbul based, globally curious 
 * Highly visual, highly structural mind
-* Systems thinking meets first principles — that's how I work
+* Systems thinking meets first principles, that's how I work
 
 ---
 
