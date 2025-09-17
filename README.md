@@ -22,11 +22,6 @@ I specialize in structuring ambiguous ideas into measurable frameworks not just 
 
  I practice what's often called [vibe engineering](https://www.productora.co/blog/vibe-coding-to-engineering); building fast, delightful systems that feel as good as they function. My current tools of choice are Next.js, Supabase, and Vercel, and I'm heads-down crafting Second Brain, an AI-native knowledge app. Also a Bun enjoyer.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=violettance&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-
 ### 🚀 Product Portfolio
 
 #### Second Brain
@@ -78,4 +73,12 @@ The platform allows users to quickly view a profile of their uploaded dataset an
 <a href="https://cursor.sh/" target="_blank" rel="noreferrer"><img src="https://cursor.sh/apple-touch-icon.png" width="36" height="36" alt="Cursor" /></a>
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="36" height="36" alt="Google Colab" /></a>
 </p>
+
+---
+
+### 🎯 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=violettance&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
