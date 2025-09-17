@@ -22,6 +22,8 @@ I specialize in structuring ambiguous ideas into measurable frameworks not just 
 
  I practice what's often called [vibe engineering](https://www.productora.co/blog/vibe-coding-to-engineering); building fast, delightful systems that feel as good as they function. My current tools of choice are Next.js, Supabase, and Vercel, and I'm heads-down crafting Second Brain, an AI-native knowledge app. Also a Bun enjoyer.
 
+---
+
 ### 🚀 Product Portfolio
 
 #### Second Brain
