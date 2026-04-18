@@ -3,67 +3,70 @@ Hey, you found me ![](https://user-images.githubusercontent.com/18350557/1763097
 
 <img src="avatar.png" alt="Mary Kurt" width="100%" />
 
-I run [**Productora**](https://www.productora.co/), a one-person product analytics studio powered by AI agents.
+I build analytical systems, AI-native workflows, and digital products.
 
-I specialize in structuring ambiguous ideas into measurable frameworks not just analyzing data, but designing the questions that drive clarity.
-
----
-
-### ⚡ What I Do
-
-* Turn business problems into data questions  
-* Build structured analytical processes around abstract ideas  
-* Discover insights through statistical modeling and behavioral analysis  
-* Deliver clarity, not just dashboards
+I run [**Productora**](https://www.productora.co/), and I also work across research, experimentation, growth systems, automation, and product engineering to turn ambiguous ideas into measurable, usable systems.
 
 ---
 
-### 🛠️ Vibe Engineering
+### What I Do
 
- I practice what's often called [vibe engineering](https://www.productora.co/blog/vibe-coding-to-engineering); building fast, delightful systems that feel as good as they function. My current tools of choice are Next.js, Supabase, and Vercel, and I'm heads-down crafting Second Brain, an AI-native knowledge app. Also a Bun enjoyer.
+* Turn ambiguous ideas into structured systems  
+* Build analytics, experimentation, growth systems, and validation workflows  
+* Design AI-native products and operational infrastructure  
+* Combine research thinking, product sense, and technical execution
 
 ---
 
-### 🚀 Product Portfolio
+### How I Work
+
+I like building structure where things are still messy: early-stage ideas, unclear problem spaces, scattered signals, and systems that need to become usable.
+
+My work usually brings together product thinking, analytics, growth systems, experimentation, documentation, and implementation across web, mobile, automation, and AI-assisted workflows.
+
+---
+
+### Selected Work
 
 #### Second Brain
 [![Second Brain](https://img.shields.io/badge/Second%20Brain-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://second-brain-pkm.vercel.app/dashboard)
 
-Second Brain is an AI-powered knowledge platform for polymaths to record daily thoughts, visualize idea networks, and surface deep insights through automatic tagging, voice transcription, and intelligent diagrams with Pro features like AI-powered insights and pattern detection now in early access, email me if you’d like to be added before payment rolls out.
+An AI-native knowledge platform for capturing thoughts, mapping idea networks, and surfacing patterns through structured inputs, voice, and intelligent organization.
 
 #### Bestseller Analytics
 [![Bestseller Analytics](https://img.shields.io/badge/Bestseller%20Analytics-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://bestseller-anatomy.vercel.app/)
 
-The platform showcases insights from 2024's bestselling fiction and lets users upload manuscripts for chapter-level analysis across emotion, pacing, tension and sensory detail to reveal the story's structure, style and overall impact with a bestseller prediction module coming soon.
+A manuscript analysis product that breaks fiction into measurable signals like emotion, pacing, tension, and sensory detail to make narrative structure easier to study.
 
 #### ETF Analytics
 [![ETF Analytics](https://img.shields.io/badge/ETF%20Analytics-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://v0-data-dashboard-design-iota.vercel.app/)
 
-An interactive dashboard that tracks real-time ETF prices, trend history, and AI-powered news sentiment - while surfacing top performers, visualizing risk-return, and comparing category performance over time in a clean, insight-focused interface with additional capabilities coming soon.
+A market intelligence dashboard combining ETF price tracking, category comparison, risk-return analysis, and AI-assisted sentiment signals in a focused decision interface.
 
 #### AutoML Pipeline
 [![AutoML Pipeline](https://img.shields.io/badge/AutoML%20Pipeline-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://insighter.streamlit.app/)
 
-The platform allows users to quickly view a profile of their uploaded dataset and visualize it interactively, and for datasets suitable for classification problems, further allows them to identify and download the best-performing model for their prediction target, with regression problem capabilities coming soon.
+An automated machine learning workflow for profiling datasets, exploring them visually, and identifying strong classification models with minimal setup.
 
 ---
 
-### ✨ Personal Vibe
+### Personal Vibe
 
 * Istanbul based, globally curious 
-* Highly visual, highly structural mind
-* Systems thinking meets first principles, that's how I work
+* Pattern-seeking, structure-building mind
+* Systems thinking meets first principles
 
 ---
 
-### ✉️ Contact Me
+### Contact Me
 
-* Gmail: [ytu.iremkurt@gmail.com](mailto:ytu.iremkurt@gmail.com)
+* Work: [contact@productora.co](mailto:contact@productora.co)
+* Personal: [ytu.iremkurt@gmail.com](mailto:ytu.iremkurt@gmail.com)
 * LinkedIn: [linkedin.com/in/ytu-iremkurt](https://www.linkedin.com/in/ytu-iremkurt/)
 
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 
 <p align="left">
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-dark.svg" width="36" height="36" alt="Next.js" /></a>
@@ -78,9 +81,8 @@ The platform allows users to quickly view a profile of their uploaded dataset an
 
 ---
 
-### 🎯 GitHub Stats
+### GitHub Stats
 
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=violettance&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
-
