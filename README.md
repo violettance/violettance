@@ -18,14 +18,6 @@ I run [**Productora**](https://www.productora.co/), and I also work across resea
 
 ---
 
-### How I Work
-
-I like building structure where things are still messy: early-stage ideas, unclear problem spaces, scattered signals, and systems that need to become usable.
-
-My work usually brings together product thinking, analytics, growth systems, experimentation, documentation, and implementation across web, mobile, automation, and AI-assisted workflows.
-
----
-
 ### Selected Work
 
 #### Second Brain
