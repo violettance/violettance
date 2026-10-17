@@ -16,7 +16,7 @@ Alongside these ventures, I pursue independent research into psychometrics, visu
 ### What I Do
 
 * Cofound Rota and lead product, mobile development, growth, and operations
-* Lead Productora and build Origin, its analytics audit product
+* Build Origin and Origin Foundation, helping teams understand and improve their analytics setup
 * Explore psychometrics, visual attention, and human behavior through independent research
 * Develop AI products and repeatable systems for creative production
 
@@ -32,11 +32,13 @@ A personalized study companion for students preparing for Türkiye’s universit
 [Rota website](https://www.rotaniciz.com/) · [Download page](https://www.rotaniciz.com/indir) · [Download on the App Store](https://apps.apple.com/app/id6759829717)
 
 #### Productora
-[![Productora](https://img.shields.io/badge/Productora-Origin-FF3366?style=for-the-badge)](https://www.productora.co/)
+[![Productora](https://img.shields.io/badge/Productora-Origin%20%2B%20Foundation-FF3366?style=for-the-badge)](https://www.productora.co/)
 
-I’m building Origin, Productora’s analytics audit product. It checks a website, Google Tag Manager, and GA4, then provides an evidence-based report on what is working and what needs attention.
+Origin gives teams a clear picture of their analytics setup and what to do next. The free Origin report reviews a website, Google Tag Manager, and GA4, then turns the findings into practical guidance.
 
-[Productora website](https://www.productora.co/) · [Open the Origin app](https://origin.productora.co/)
+For teams ready to move from insight to action, Origin Foundation is the one-time paid upgrade, with a deeper review, expert-led fixes, and verification.
+
+[Productora website](https://www.productora.co/) · [Try the free Origin report](https://origin.productora.co/)
 
 #### Frame-Sliced Design
 [![Frame-Sliced Design](https://img.shields.io/badge/Frame--Sliced%20Design-Creative%20Framework-black?style=for-the-badge)](https://github.com/violettance/frame-sliced-design)
@@ -55,8 +57,8 @@ A knowledge management product for capturing thoughts, connecting ideas, and dis
 ### Personal Vibe
 
 * Istanbul based, globally curious
-* Pattern-seeking, structure-building mind
-* Systems thinking meets first principles
+* Interested in how people think, learn, and make decisions
+* Research thinking meets hands-on product building
 
 ---
 
