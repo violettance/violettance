@@ -55,8 +55,8 @@ A knowledge management product for capturing thoughts, connecting ideas, and dis
 ### Personal Vibe
 
 * Istanbul based, globally curious
-* Interested in how people think, learn, and make decisions
-* Research thinking meets hands-on product building
+* Pattern-seeking, structure-building mind
+* Systems thinking meets first principles
 
 ---
 
