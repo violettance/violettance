@@ -46,7 +46,7 @@ For teams ready to move from insight to action, Origin Foundation is the one-tim
 A modular framework for short-form video production, bringing reusable structures and design-system thinking to visual storytelling.
 
 #### Second Brain
-[![Second Brain](https://img.shields.io/badge/Second%20Brain-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://second-brain-pkm.vercel.app/dashboard)
+[![Second Brain](https://img.shields.io/badge/Second%20Brain-Personal%20Knowledge%20Management-FF3366?style=for-the-badge)](https://second-brain-pkm.vercel.app/dashboard)
 
 A knowledge management product for capturing thoughts, connecting ideas, and discovering patterns through notes, voice, and an interactive knowledge graph.
 
