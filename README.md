@@ -25,14 +25,14 @@ Alongside these ventures, I pursue independent research into psychometrics, visu
 ### Selected Work
 
 #### Rota OS
-[![Rota OS](https://img.shields.io/badge/Rota%20OS-iOS%20Study%20App-blue?style=for-the-badge&logo=apple&logoColor=white)](https://www.rotaniciz.com/indir)
+[![Rota OS](https://img.shields.io/badge/Rota%20OS-iOS%20Study%20App-3845FF?style=for-the-badge&logo=apple&logoColor=white)](https://www.rotaniciz.com/indir)
 
 A personalized study companion for students preparing for Türkiye’s university entrance exams, bringing practice questions, adaptive study plans, and mistake review into one daily experience.
 
 [Rota website](https://www.rotaniciz.com/) · [Download page](https://www.rotaniciz.com/indir) · [Download on the App Store](https://apps.apple.com/app/id6759829717)
 
 #### Productora
-[![Productora](https://img.shields.io/badge/Productora-Origin-purple?style=for-the-badge)](https://www.productora.co/)
+[![Productora](https://img.shields.io/badge/Productora-Origin-FF3366?style=for-the-badge)](https://www.productora.co/)
 
 I’m building Origin, Productora’s analytics audit product. It checks a website, Google Tag Manager, and GA4, then provides an evidence-based report on what is working and what needs attention.
 
