@@ -7,7 +7,7 @@ Hey, you found me ![](https://user-images.githubusercontent.com/18350557/1763097
 
 I take ideas from early questions to working products, then build the brand, growth, and operating practices around them.
 
-I’m the cofounder of [**Rota**](https://www.rotaniciz.com/), where I lead product, mobile development, growth, and operations, and the founder of [**Productora**](https://www.productora.co/), an AI-native growth studio. [**Origin**](https://origin.productora.co/) is a Productora product.
+I’m the cofounder of [**Rota**](https://www.rotaniciz.com/), where I lead product, mobile development, growth, and operations, and the founder of [**Productora**](https://www.productora.co/), an AI-native growth studio.
 
 Alongside these ventures, I pursue independent research into psychometrics, visual attention, and preference, and develop tools and frameworks for thinking and creative production.
 
