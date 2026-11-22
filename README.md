@@ -50,7 +50,7 @@ A modular framework for short-form video production, bringing reusable structure
 
 A knowledge management product for capturing thoughts, connecting ideas, and discovering patterns through notes, voice, and an interactive knowledge graph.
 
-[Live demo](https://second-brain-pkm.vercel.app/dashboard) · [Source code](https://github.com/violettance/second-brain)
+[Live demo](https://secondbrainos.app/) · [Source code](https://github.com/violettance/second-brain)
 
 ---
 
